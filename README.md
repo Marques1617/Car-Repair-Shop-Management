@@ -1,5 +1,6 @@
 # Car-Repair-Shop-Management
 Project C - 2023
+
 The goal is to create a software application that helps workshop staff manage customer bookings efficiently. The system should store information about clients, available appointment slots, and any reservations on hold. Users should be able to perform the following tasks interactively:
 Book a wash or maintenance service: Allow a customer to schedule a car wash or maintenance appointment.
 Pre-book a service: If no suitable time slots are available, a customer can join a waiting list to get priority if an existing booking is canceled.
